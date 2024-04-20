@@ -11,3 +11,6 @@
     { 0, 1 }
 
 #define DYNAMIC_KEYMAP_LAYER_COUNT 8
+
+#define RGBLIGHT_TIMEOUT (1000 * 60 * 5)
+#define SPLIT_OLED_ENABLE
