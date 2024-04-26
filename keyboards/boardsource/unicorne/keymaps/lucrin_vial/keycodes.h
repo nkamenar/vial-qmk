@@ -1,0 +1,12 @@
+#pragma once
+
+enum custom_keycodes {
+    USER_FANTASIE_IMPROMPTU = QK_KB_0,
+    AC_TOGG_CUSTOM,
+    FF_PRELUDE_KEY,
+    IMPERIAL_MARCH_KEY,
+    COIN_SOUND_KEY,
+    ONE_UP_SOUND_KEY,
+    ZELDA_PUZZLE_KEY,
+    MARIO_MUSHROOM_KEY,
+};
